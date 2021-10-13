@@ -1,0 +1,60 @@
+
+#index {
+    background-color: #e0d587;
+}
+#contact {
+    background-color: cornsilk;
+}
+#fondu {
+    background-color: #b2e0d7;
+}
+#aligot {
+    background-color: #cae091;
+}
+#gratin {
+    background-color: #e0bcdf;
+}
+#raclette {
+    background-color: #e0d587;
+}
+#tartiflette {
+    background-color: darkkhaki;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    padding-left: 50px;
+}
+
+.menu {
+    font-family: monospace, sans-serif;
+    border: 1px solid black;
+    background-color: #e0dad7;
+    border-radius: 25px;
+    width: 15%;
+}
+
+.recette {
+    font-family: monospace, sans-serif;
+    border: 1px solid black;
+    background-color: #e0dad7;
+    border-radius: 30px;
+    width: 25%;
+}
+
+#img {
+    text-align: center;
+}
+
+table {
+    border:2px solid black;
+    border-collapse: collapse;
+}
+
+.text {
+    padding: 5px;
+    border: grey inset 3px;
+}
